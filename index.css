@@ -46,6 +46,7 @@ body {
     align-items: center;
     gap: 20px;
     font-family: Poppins;
+    width: fit-content;
 }
 .round__text {
     color: #FFF;
