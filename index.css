@@ -28,7 +28,7 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(321px, 390px));
     justify-content: center;
     gap: 30px;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 .link {
     height: 330px;
