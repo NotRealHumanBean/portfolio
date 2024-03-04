@@ -55,11 +55,13 @@ body {
 .bigger {
     font-size: 30px;
     line-height: 118.5%; /* 71.1px */
+    width: fit-content;
 }
 .smaller {
     font-size: 17px;
     line-height: 118.5%;
     letter-spacing: 5.02px;
+    width: fit-content;
 }
 .text-logo {
   font-size: 43px;
